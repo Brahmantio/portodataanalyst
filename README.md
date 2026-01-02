@@ -21,7 +21,7 @@ Struktur database **BLINKIT** terdiri dari **8 tabel utama**, yaitu:
 - Payment Method  
 
 📌 **Entity Relationship Diagram (ERD):**  
-
+![ERD](ERD.png)
 ---
 
 ## 🎯 Analysis Objectives
