@@ -149,14 +149,7 @@ Customer cenderung tetap membeli produk berdasarkan kebutuhan, terutama pada kat
 Faktor kesehatan, kualitas, dan brand memiliki pengaruh yang lebih besar dibandingkan harga pada beberapa segmen dan kategori produk.
 
 📊 **Visualization:**  
-![Price vs Sales](relation.jpg)
-
----
-
-## 📁 Project Files
-- `data_cleaning.sql` → SQL cleaning script  
-- `blinkit_analysis.xlsx` → Excel analysis (Pivot Table, Power Query, Power Pivot)  
-- `images/` → Visualizations & ERD  
+![Price vs Sales](relation.jpg) 
 
 ---
 
