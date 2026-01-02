@@ -84,7 +84,7 @@ Dengan memahami kebutuhan customer yang cenderung memilih pembeliannya berdasark
 Pengelolaan kapasitas penyimpanan yang tepat dapat mengurangi risiko **overstock** dan **stockout**, serta memastikan kebutuhan customer terpenuhi secara optimal.
 
 📊 **Visualization:**  
-![Product & Brand Analysis](images/inventory.jpg)
+![Product & Brand Analysis](inventory.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ Tren penjualan selama dua tahun terakhir menunjukkan pola yang **fluktuatif**, s
 Oleh karena itu, analisis dilanjutkan dengan **rata-rata penjualan bulanan** guna memperoleh gambaran performa yang lebih stabil.
 
 📊 **Visualization:**  
-![Sales Trend](images/trend.jpg)
+![Sales Trend](trend.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ Terdapat penurunan total penjualan dari tahun 2023 ke 2024. Namun, momentum punc
 Informasi ini dapat dimanfaatkan oleh tim inventory sebagai acuan dalam pengelolaan ruang penyimpanan, serta oleh tim marketing dan sales untuk mengoptimalkan strategi penjualan musiman.
 
 📊 **Visualization:**  
-![Quarterly Trend](images/salestrend.jpg)
+![Quarterly Trend](salestrend.jpg)
 
 ---
 
@@ -112,7 +112,7 @@ Namun, metode pembayaran **Cash** memiliki persentase penggunaan sekitar **3% le
 Selain segmentasi customer, faktor usia juga perlu diperhatikan dalam analisis kemudahan dan preferensi metode pembayaran.
 
 📊 **Visualization:**  
-![Payment Method](images/payment.jpg)
+![Payment Method](payment.jpg)
 
 ---
 
@@ -122,7 +122,7 @@ Segmen ini cenderung melakukan pembelian secara rutin dan memberikan dampak sign
 Insight ini dapat dimanfaatkan untuk memberikan **special treatment** guna meningkatkan loyalitas pelanggan.
 
 📊 **Visualization:**  
-![Customer Segment](images/behaviour.jpg)
+![Customer Segment](behaviour.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ Insight ini dapat dimanfaatkan untuk memberikan **special treatment** guna menin
 Setiap daerah memiliki kebutuhan yang berbeda. Informasi ini dapat dimanfaatkan oleh tim inventory untuk mengoptimalkan pemanfaatan ruang penyimpanan sesuai dengan kebutuhan masing-masing wilayah, sehingga dapat meningkatkan efisiensi dan potensi penjualan.
 
 📊 **Visualization:**  
-![City Profit](images/profit.jpg)
+![City Profit](profit.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ Setelah mengetahui produk yang paling diminati, pemahaman terhadap **brand prefe
 Beberapa segmen customer sangat mempertimbangkan brand dalam keputusan pembelian, sehingga insight ini dapat digunakan untuk menyusun strategi pemasaran dan perencanaan inventory yang lebih tepat sasaran.
 
 📊 **Visualization:**  
-![Brand Preference](images/brand.jpg)
+![Brand Preference](brand.jpg)
 
 ---
 
@@ -149,7 +149,7 @@ Customer cenderung tetap membeli produk berdasarkan kebutuhan, terutama pada kat
 Faktor kesehatan, kualitas, dan brand memiliki pengaruh yang lebih besar dibandingkan harga pada beberapa segmen dan kategori produk.
 
 📊 **Visualization:**  
-![Price vs Sales](images/relation.jpg)
+![Price vs Sales](relation.jpg)
 
 ---
 
