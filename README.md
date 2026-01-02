@@ -1,8 +1,7 @@
 # 📊 Data Analyst Portfolio – Excel Pivot Table Analysis
 
 ## 📌 Project Introduction
-Repository ini merupakan portofolio **Data Analyst** yang berfokus pada analisis data menggunakan **Microsoft Excel**, dengan pemanfaatan **Pivot Table, Power Query, dan Power Pivot**.  
-Project ini bertujuan untuk menunjukkan kemampuan dalam melakukan **data cleaning, data modeling, exploratory analysis, serta interpretasi insight bisnis**.
+Repository ini merupakan portofolio **Data Analyst** yang berfokus pada analisis data menggunakan **Microsoft Excel**, dengan pemanfaatan **Pivot Table, Power Query, dan Power Pivot**.Project ini bertujuan untuk menunjukkan kemampuan dalam melakukan **data cleaning, data modeling, exploratory analysis, serta interpretasi insight bisnis**.
 
 ![Dashboard Overview](ScreenRecording2025-12-22at13.40.22-ezgif.com-speed.gif)
 ---
